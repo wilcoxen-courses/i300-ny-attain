@@ -7,11 +7,11 @@ educational attainment data for New York State.
 
 ### Input Data
 
-There are two input files on the Google drive for the course: 
-**tl_2016_us_county.zip**, a shapefile giving the boundaries of New York 
-counties, and **attainment.csv**, a file containing data from the Census 
-about educational attainment for New York counties. Variables in the 
-attainment file with prefix `'pct_'` give the percentage of the 
+There are two input files: **ny_county.zip**, a shapefile 
+giving the boundaries of New York counties, and **attainment.csv**, a 
+file containing data from the Census about educational attainment for 
+New York counties. Variables in the attainment file with prefix 
+`'pct_'` give the percentage of the 
 population having educational attainment in one of five categories: 
 less than high school (`<hs`); high school or GED (`hs`); some college 
 or an associate's degree (`some_col`); a bachelor's degree (`ba`); or a 
