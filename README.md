@@ -7,7 +7,7 @@ educational attainment data for New York State.
 
 ### Input Data
 
-There are two input files: **ny_county.zip**, a shapefile 
+There are two input files: **ny_counties.zip**, a shapefile 
 giving the boundaries of New York counties, and **attainment.csv**, a 
 file containing data from the Census about educational attainment for 
 New York counties. Variables in the attainment file with prefix 
